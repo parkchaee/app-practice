@@ -22,9 +22,9 @@ public class eatogethersecond extends MainActivity {
                 startActivity(intent);
             }
         });
-        ImageButton imageButton4 = (ImageButton) findViewById(R.id.imageButton4);
+        /*ImageButton imageButton4 = (ImageButton) findViewById(R.id.imageButton4);
 
-        /*imageButton4.setOnClickListener(new View.OnClickListener() {
+        imageButton4.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
                 Intent intent = new Intent(getApplicationContext(), eatogetherfirst.class);
                 startActivity(intent);
