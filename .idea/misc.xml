@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/drawable/card_base.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/drawable/innercircle.xml" value="0.1435" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/drawable/shape.xml" value="0.1435" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/drawable/shapet.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/drawable/squareshape.xml" value="0.1895" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/layout/eatogetherfirst.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/layout/eatogethersecond.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/layout/eatogethert.xml" value="0.4" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/layout/eatogetherthree.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/layout/foodsuggest.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/layout/foodtogether.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/layout/ridesuggest.xml" value="0.264" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/layout/ridetogether.xml" value="0.536" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/layout/ridetogethert.xml" value="0.2" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/Taxicarpool/app/src/main/res/layout/ridetogethertwo.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
