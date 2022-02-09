@@ -18,6 +18,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ridetogetherone"/>
+        <activity android:name=".ridetogetherthree"/>
+        <activity android:name="eatogetherfirst"/>
+        <activity android:name=".eatogethersecond"/>
+
+        <activity android:name=".eatogetherthree"/>
+
     </application>
 
 </manifest>

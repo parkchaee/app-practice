@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#FFFEEE">
 
     <View
         android:id="@+id/view2"
-        android:layout_width="295dp"
-        android:layout_height="133dp"
+        android:layout_width="336dp"
+        android:layout_height="126dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
@@ -22,8 +23,8 @@
 
     <View
         android:id="@+id/view5"
-        android:layout_width="295dp"
-        android:layout_height="133dp"
+        android:layout_width="343dp"
+        android:layout_height="136dp"
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_alignParentRight="true"
@@ -48,10 +49,10 @@
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/button6"
-        android:layout_width="107dp"
-        android:layout_height="36dp"
+        android:layout_width="105dp"
+        android:layout_height="52dp"
         android:layout_marginStart="224dp"
-        android:layout_marginTop="380dp"
+        android:layout_marginTop="368dp"
         android:background="#A7A87C"
         android:text="JOIN!"
         android:textColor="#FFFFFF"
@@ -61,7 +62,7 @@
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/button7"
         android:layout_width="107dp"
-        android:layout_height="36dp"
+        android:layout_height="48dp"
         android:layout_marginTop="440dp"
         android:background="#A7A87C"
         android:text="SUGGEST"
@@ -89,7 +90,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="104dp"
         android:layout_marginTop="400dp"
-        android:text="Restaraunt(17F)"
+        android:text="front door(1F)"
         android:textSize="10sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -97,9 +98,9 @@
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/button5"
         android:layout_width="107dp"
-        android:layout_height="36dp"
+        android:layout_height="48dp"
         android:layout_marginStart="224dp"
-        android:layout_marginTop="232dp"
+        android:layout_marginTop="212dp"
         android:background="#A7A87C"
         android:text="JOIN!"
         android:textColor="#FFFFFF"
@@ -112,7 +113,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="56dp"
         android:layout_marginTop="188dp"
-        android:text="Gold Baked Chicken"
+        android:text="san hose station"
         android:textAllCaps="true"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
@@ -148,32 +149,10 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="100dp"
         android:layout_marginTop="248dp"
-        android:text="Dorm A Free table(17F)"
+        android:text="At station 5"
         android:textSize="10sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
-
-    <ImageView
-        android:id="@+id/imageView16"
-        android:layout_width="21dp"
-        android:layout_height="20dp"
-        android:layout_marginStart="68dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.293"
-        app:srcCompat="@drawable/tt" />
-
-    <ImageView
-        android:id="@+id/imageView17"
-        android:layout_width="21dp"
-        android:layout_height="20dp"
-        android:layout_marginStart="68dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.293"
-        app:srcCompat="@drawable/tt" />
 
     <TextView
         android:id="@+id/textView35"
@@ -181,7 +160,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="56dp"
         android:layout_marginTop="340dp"
-        android:text="Big Mac Family Set"
+        android:text="sjsu dormitory"
         android:textAllCaps="true"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
@@ -193,7 +172,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="56dp"
         android:layout_marginTop="328dp"
-        android:text="Mcdonald"
+        android:text="school"
         android:textSize="8sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -212,22 +191,20 @@
         android:id="@+id/imageView18"
         android:layout_width="21dp"
         android:layout_height="20dp"
-        android:layout_marginStart="68dp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="204dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.506"
         app:srcCompat="@drawable/tt" />
 
     <ImageView
-        android:id="@+id/imageView19"
+        android:id="@+id/imageView7"
         android:layout_width="21dp"
         android:layout_height="20dp"
-        android:layout_marginStart="68dp"
-        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="360dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.506"
         app:srcCompat="@drawable/tt" />
 
     <TextView
@@ -241,22 +218,12 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <ImageView
-        android:id="@+id/imageView12"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="16dp"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/dwettt" />
-
     <TextView
         android:id="@+id/textView13"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="Eat Together"
+        android:text="Ride together"
         android:textAllCaps="true"
         android:textSize="20sp"
         android:textStyle="bold"
@@ -314,7 +281,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="48dp"
         android:layout_marginTop="108dp"
-        android:text="Let's eat together!"
+        android:text="Let's ride together!"
         android:textAllCaps="true"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
@@ -326,7 +293,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="56dp"
         android:layout_marginTop="176dp"
-        android:text="BBQ Chicken"
+        android:text="station"
         android:textSize="8sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -340,4 +307,14 @@
         android:text="2/4 joined"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="12dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/dwettt" />
 </androidx.constraintlayout.widget.ConstraintLayout>
